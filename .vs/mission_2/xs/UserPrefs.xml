@@ -1,20 +1,16 @@
 ﻿<Properties StartupConfiguration="{717D4384-8971-41C2-A281-93A3E35F8162}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="mission_2/wwwroot/js/GradeCalc.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mission_2/Startup.cs">
     <Files>
-      <File FileName="mission_2/wwwroot/index.html" Line="57" Column="1" />
-      <File FileName="mission_2/wwwroot/js/GradeCalc.js" Line="21" Column="6" />
+      <File FileName="mission_2/Program.cs" Line="23" Column="48" />
+      <File FileName="mission_2/Startup.cs" Line="11" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="mission_2" expanded="True">
             <Node name="mission_2" expanded="True">
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-                <Node name="js" expanded="True">
-                  <Node name="GradeCalc.js" selected="True" />
-                </Node>
-              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
